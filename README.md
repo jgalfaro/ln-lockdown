@@ -1,8 +1,8 @@
-# Hiding the Balance of Lightning Network Channels
+# Balance Availability Attack against Lightning Network Channels
 
 ## Disclaimer
 
-The code is still under a [private repository!](https://github.com/cpsola/ln-lockdown).
+The code is still under a [private repository](https://github.com/cpsola/ln-lockdown).
 
 ## Reference
 
